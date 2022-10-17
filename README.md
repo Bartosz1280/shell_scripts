@@ -1,5 +1,6 @@
 # Shell scripts
-![shell-script]({https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white})
+
+<img src="{https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white}" />
 
 Shell script I made to make work in/with terminal easier. The easiest way to use them is to add them to your .bashrc/.zshrc .
 

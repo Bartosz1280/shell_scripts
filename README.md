@@ -1,11 +1,11 @@
 # Shell scripts
-
+![shell-script]({https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white})
 Shell script I made to make work in/with terminal easier. The easiest way to use them is to add them to your .bashrc/.zshrc .
 
 Currently avaible scripts:
 <ul>
-<li>**namefix** - change uppercase letters to lowercase and/or remove spaces in files and directory names in pwd </li>
-<li>**sprint** - helps to manage your weekly sprint by creating a list of tasks that need to be done </li>
+<li> **namefix** - change uppercase letters to lowercase and/or remove spaces in files and directory names in pwd </li>
+<li> **sprint** - helps to manage your weekly sprint by creating a list of tasks that need to be done </li>
 </ul>
 
 ## namefix
